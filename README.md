@@ -1,3 +1,3 @@
-Simple Text Editor.
+Text Editor.
 
 Java Swing
